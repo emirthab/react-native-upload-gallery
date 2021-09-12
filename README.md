@@ -6,7 +6,7 @@
 
  <br />
 
-#### [Watch Demo Video! ](https://www.youtube.com/watch?v=wAd9v5HzVLk)
+### [Watch Demo Video! ](https://www.youtube.com/watch?v=wAd9v5HzVLk)
  <p align="left">
    <a href="https://www.youtube.com/watch?v=wAd9v5HzVLk">
     <img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/youtube.png?raw=true" width="450">
@@ -17,6 +17,11 @@
 ## Introduction:
 :large_blue_circle: An image upload component for react native that works with drag and drop mechanics.
 
+|Drag-Drop|Delete  | Upload|
+|:--------|:----|:------|
+|<img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/drag.gif?raw=true" width="200">|<img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/delete.gif?raw=true" width="200">|<img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/upload.gif?raw=true" width="200">|
+
+
 ## Installation:
 ```
 npm install react-native-upload-gallery
@@ -25,12 +30,6 @@ or
 ```
 yarn add react-native-upload-gallery
 ```
-## Media
-
-|Drag-Drop|asd  | dsadas|
-|:--------|:----|:------|
-|<img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/drag.gif?raw=true" width="200">|<img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/delete.gif?raw=true" width="200">|<img src="https://github.com/emirthab/react-native-upload-gallery/blob/main/example/media/upload.gif?raw=true" width="200">|
-
 
 ## Props
 
