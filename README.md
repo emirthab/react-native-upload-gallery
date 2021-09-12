@@ -15,7 +15,7 @@
 
 
 ## Introduction:
-:large_blue_circle: It is an application that I made with python flask to provide convenience to all businesses that provide smart printer output services.
+:large_blue_circle: An image upload component for react native that works with drag and drop mechanics.
 
 ## Installation:
 ```
