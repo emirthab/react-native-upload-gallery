@@ -13,10 +13,9 @@
     "url": "https://github.com/emirthab/react-native-upload-gallery"
   },
   "keywords": [
-    "slider",
-    "imageslider",
-    "carousel",
-    "flatlist",
+    "image",
+    "upload",
+    "image",
     "react-native",
     "react-component"
   ],
