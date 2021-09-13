@@ -26,10 +26,6 @@
 ```
 npm install react-native-upload-gallery
 ```
-or
-```
-yarn add react-native-upload-gallery
-```
 
 ## Props
 
